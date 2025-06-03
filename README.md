@@ -1,5 +1,5 @@
 # MUX
-Created a simple 8 bit register as part of Cadence SystemVerilog certification Lab 1
+Created a MUX as part of Cadence SystemVerilog certification Lab 2
 
 Output-
 <pre>0ns in_a=00 in_b=00 sel_a=0 out=00
